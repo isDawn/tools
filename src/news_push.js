@@ -56,7 +56,5 @@ async function main() {
     sendDingtalk(talks)
 }
 
-
-
-main();
+module.exports = main;
 
